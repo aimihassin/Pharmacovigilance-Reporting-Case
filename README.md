@@ -35,34 +35,34 @@ For the purposes of this research project, quarterly data encompassing quarter 1
 
 #### Data Pre-processing
 
-##### Data Cleaning
+  ##### Data Cleaning
 
 
-##### Classifying ADR's Severity
+  ##### Classifying ADR's Severity
 
 
-#### Data Preparation
+  #### Data Preparation
 
 
 #### Model Development
 
-* Support Vector Machine (SVM)
-+
+  * Support Vector Machine (SVM)
+    +
 
-* Decision Tree (DT)
-+
+  * Decision Tree (DT)
+    +
 
-* Random Forest (RF)
-+
+  * Random Forest (RF)
+    +
 
-* eXtreme Gradient Boosting (XGB)
-+
+  * eXtreme Gradient Boosting (XGB)
+    +
 
 #### Model's Performance Evaluation Methods
 
-##### Confusion Matrix
+  ##### Confusion Matrix
 
 
-##### K-fold Cross-Validation
+  ##### K-fold Cross-Validation
 
 
