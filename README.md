@@ -31,6 +31,6 @@ As machine learning is shown to be capable of detecting ADR and ADE for larger d
 
 #### Data Collection
 
-For the purposes of this research project, quarterly data encompassing quarter 1 (Q1) until quarter 4 (Q4) data from 2018 will be collected. This FAERS data can be retrieved from the [FDA website] (https://fis.fda.gov/extensions/FPD-QDE-FAERS/FPD-QDE-FAERS.html).
+For the purposes of this research project, quarterly data encompassing quarter 1 (Q1) until quarter 4 (Q4) data from 2018 will be collected. This FAERS data can be retrieved from the [FDA website](https://fis.fda.gov/extensions/FPD-QDE-FAERS/FPD-QDE-FAERS.html).
 
 
