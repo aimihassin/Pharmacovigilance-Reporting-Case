@@ -26,3 +26,11 @@ Many adverse events (AE) have been reported to the FDA by health practitioners, 
 ### Expected Outcome:
 
 As machine learning is shown to be capable of detecting ADR and ADE for larger datasets, we hypothesised that machine learning might also be able to identify and classify the drugs’ severity risk level based on various input variables in the reported pharmacovigilance cases in SRS. Thus, this classification may be useful for drug safety surveillance activities, particularly with the prediction of reporting pharmacovigilance cases by using different algorithms from supervised learning.
+
+### Methodology:
+
+#### Data Collection
+
+For the purposes of this research project, quarterly data encompassing quarter 1 (Q1) until quarter 4 (Q4) data from 2018 will be collected. This FAERS data can be retrieved from the [FDA website] (https://fis.fda.gov/extensions/FPD-QDE-FAERS/FPD-QDE-FAERS.html).
+
+
