@@ -33,4 +33,36 @@ As machine learning is shown to be capable of detecting ADR and ADE for larger d
 
 For the purposes of this research project, quarterly data encompassing quarter 1 (Q1) until quarter 4 (Q4) data from 2018 will be collected. This FAERS data can be retrieved from the [FDA website](https://fis.fda.gov/extensions/FPD-QDE-FAERS/FPD-QDE-FAERS.html).
 
+#### Data Pre-processing
+
+##### Data Cleaning
+
+
+##### Classifying ADR's Severity
+
+
+#### Data Preparation
+
+
+#### Model Development
+
+* Support Vector Machine (SVM)
++
+
+* Decision Tree (DT)
++
+
+* Random Forest (RF)
++
+
+* eXtreme Gradient Boosting (XGB)
++
+
+#### Model's Performance Evaluation Methods
+
+##### Confusion Matrix
+
+
+##### K-fold Cross-Validation
+
 
