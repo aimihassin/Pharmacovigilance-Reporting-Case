@@ -35,13 +35,13 @@ For the purposes of this research project, quarterly data encompassing quarter 1
 
 #### Data Pre-processing
 
-  *##### Data Cleaning
+  * ##### Data Cleaning
 
 
-  *##### Classifying ADR's Severity
+  * ##### Classifying ADR's Severity
 
 
-  *#### Data Preparation
+  * #### Data Preparation
 
 
 #### Model Development
