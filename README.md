@@ -3,7 +3,9 @@
 This repository is for my Master of Data Science research project.
 
 
-### Title: Pharmacovigilance Reporting Case: A Machine Learning Approach
+### Title: 
+
+Pharmacovigilance Reporting Case: A Machine Learning Approach
 
 ### Problem Statement
 
